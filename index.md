@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Quantum Strike
+A fighting game built for Westwood College's First Annual Game Competition using C++/DirectX.
 
-You can use the [editor on GitHub](https://github.com/Rev2106/QuantumStrike/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Screenshots
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![quantumstrike1](https://user-images.githubusercontent.com/7635112/120610360-efaf7280-c407-11eb-9878-3844b73a5ca1.jpg)
 
-### Markdown
+![quantumstrike2](https://user-images.githubusercontent.com/7635112/120610362-f0480900-c407-11eb-8ea8-135e2d7dee7c.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![quantumstrike3](https://user-images.githubusercontent.com/7635112/120610364-f0480900-c407-11eb-893a-d3176db98231.jpg)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rev2106/QuantumStrike/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![quantumstrike4](https://user-images.githubusercontent.com/7635112/120610366-f0e09f80-c407-11eb-9a40-02ab6ad89f8b.jpg)
